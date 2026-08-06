@@ -9,7 +9,7 @@ function activityCreator:Get()
 	local RunService = game:GetService("RunService")
 
 	local description = "Developing"
-	local editing = "StudioPresence by iArxic"
+	local editing = "Roblox Studio"
 	local imageKey = "studio"
 	local smallImageKey, smallImageDesc = "none", "none"
 	local lineText
